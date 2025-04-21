@@ -1,9 +1,9 @@
-/*
-    Document Object Model(DOM)
-     - When a browser laods an HTML document, it converts the html document into a document object.
-     - In the context of the DOM, the root node refers to the top-most node of the document tree.
-     - For the html document, this root node is the <html> element. It servers as the parent for all the other nodes
-*/
+// /*
+//     Document Object Model(DOM)
+//      - When a browser laods an HTML document, it converts the html document into a document object.
+//      - In the context of the DOM, the root node refers to the top-most node of the document tree.
+//      - For the html document, this root node is the <html> element. It servers as the parent for all the other nodes
+// */
 
 /*
     CSS selectors are used to find pr select the html element you want to style.
